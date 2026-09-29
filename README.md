@@ -8,6 +8,6 @@ The augmented reality models behind « Voir chez vous » in the Galerie Artwave 
 
 **Temporary host.** GitHub Pages refuses sites over 1 GB, so the artwork textures are capped at 1024 px (about 0.84 GB in all). At the launch of the real site, the models move to Shopify at full resolution.
 
-The page is hidden from search engines (`noindex` and `robots.txt`). The artwork images are the ones already published on galerie-artwave.fr, at a lower resolution. © Anne Turlais, all rights reserved.
+The page is hidden from search engines (`noindex` on every page). The artwork images are the ones already published on galerie-artwave.fr, at a lower resolution. © Anne Turlais, all rights reserved.
 
 Do not edit by hand. Everything here is generated from the GalerieArtwave repository by `scripts/ar/build_pages_site.py`.
